@@ -44,3 +44,18 @@ Our grad mentor, Maya, helped us connect the Machine Learning ascpect to this st
 
 **June 6, 2024**
 
+We decided as a group to use the COVID-19 and Substance Use topic for our reserch project. 
+
+We needed to create a hypothesis for this study. Our hypothesis is higher levels of stress relates to the COVID-19 pandemic are associated with an increase likelihood of substance use. AFter brainstorming some more ideas, we also wanted to look at anxiety, depression, and PTSD symptomology among substance users. So now our predictive algorithm would classify risk factors that lead to anxiety, depression, and PTSD liek symptoms within the substance user population. 
+
+We also started working on our weekly update presentation. 
+
+**June 7, 2024**
+
+We continued to work on our presentation. 
+
+We had a one-on-one meeting with Dr. Pandey about our topic. She talked about making sure our verbiage was universal and that anyone could read our hypothesis/question and understand what we were talking about. 
+
+Dr. Meeker also gave us insight on our project. He said we had an issue with our hypothesis and our question. Our hypothesis was actually a prediction and not a hypothesis. He also said that our hypothesis was not falsifiable, which means we can't test it. So we had to now reformulate everything. We talked about of population and what we were trying to find. He helped us determine our population groups. We now need to rewrite our question and our hypothesis. 
+
+We finshed up our slides and filmed our video. 
