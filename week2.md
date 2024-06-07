@@ -36,3 +36,11 @@ These are the following Risk Factors we identified:
 - Regulatory barriers to telehealth
 - Stress
 - Existing health disparities (among underserved communities)
+
+We developed the following research questions: To what extent did stress related to the COVID-19 pandemic influence an increased use of substances in adults in the U.S.?
+Our population was substance users - we also needed to define and understand the difference between substance use and substance abuse. After doing so, we decided to use substance use for this study. 
+
+Our grad mentor, Maya, helped us connect the Machine Learning ascpect to this study. We would use machine learning to create a predictive algorithm to classify relevant risk factors that lead to the outcome of COVID-19 related stress among sybstance users. 
+
+**June 6, 2024**
+
