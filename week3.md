@@ -10,7 +10,7 @@ I was absent this day.
 
 **June 12, 2024**
 
-We looked at some more hournal articles. We started our video presentation. 
+We looked at some more hournal articles. We started our lit review matrix. We started our video presentation. 
 
 **June 13, 2024**
 
