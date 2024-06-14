@@ -10,11 +10,12 @@ I was absent this day.
 
 **June 12, 2024**
 
-
+We looked at some more hournal articles. We started our video presentation. 
 
 **June 13, 2024**
 
+We went on a field trip to the Johns Hopkins Applied Physics Lab. We heard from different researchers about their AI projects. We even saw one of their robots that they use to help military personnel. 
 
+**June 14, 2024**
 
-**June 15, 2024**
-
+We continued our literature review, in preperation for Dr. Pandey's workshop. She gave us pointer's on how to present an oral summary of an article and explaining how it's important to find our own critiques of articles. We completed our video presentation and started some data analysis tutorials. 
