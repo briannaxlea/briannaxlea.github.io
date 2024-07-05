@@ -1,1 +1,2 @@
-
+This week we prepared for our Mid Summer presentation. We made our powerpoint presentation. We also talked about our visualizations and made sure we understood them. We practiced what we were going to say and received feedback from our mentors. We also made revision to the powerpoint. 
+Since the presentation was post-poned, we started talking about our next steps. We also started writing out our article summaries for Dr Pandey (and for our technical paper). We are still preparing for the Mid Summer Presentation and prepping for possible questions/comments we may receive. 
