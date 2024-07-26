@@ -1,0 +1,3 @@
+This week, we focused on running some statistical analyses and completing the LASSO regression. I made some figures/diagrams from our findings for the final presentation. We continued working on our parts of the paper and revised 
+our presentation. This week was a bit challenging due to the time restraints. I ran into many coding errors, but I eventually worked them out. After running some statistical test (seperate from our main findings), I found out that there were some errors that I would 
+not be able to fix in time. Overall, we are closer to being completly done for everything and are preparing for the presentation. 
