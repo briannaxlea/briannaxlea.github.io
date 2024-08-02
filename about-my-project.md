@@ -1,7 +1,5 @@
 ## About My Project
 
-AI Approaches to classify COVID-19 related PTSD
+Machine Learning Techniques to Predict PTSD Symtomatology: Effects of Substance Use
 
-Our group will be looking at the correlation between post-COVID behaviors as they relate to PTSD symptoms. And we will see how AI can be integrated into this. 
-
-
+The current research study aims to evaluate the effectiveness and feasibility of using machine learning techniques for predicting PTSD symptomatology among substance users. We hypothesize that substance use increases PTSD symptomology when compared to non-substance users. This relationship is mediated by specific variables that can be identified and predicted using machine learning techniques. Our research questions are, how does substance use affect PTSD symptomology in individuals? Which variables most strongly predict high PTSD symptomology among substance users? We predict that individuals classified as substance userswill have higher IES-6 scores compared to non-substance users. Our expected outcomes are that post hoc difference comparisons will reveal specific variables (e.g., demographic factors, and mental health history) that significantly differbetween substance users with high IES-6 scores and other groups. Lasso regression will identify a subset of predictorsthat are highly relevant for classifying individuals into high PTSD symptomology categories, aligning with those found in the post hoc analysis. A predictive algorithm using these key variables will accurately classify individuals into the appropriate PTSD symptomology groups with high precision and recall.
